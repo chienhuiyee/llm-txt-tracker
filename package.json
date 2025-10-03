@@ -1,0 +1,28 @@
+{
+  "name": "llm-txt-tracker",
+  "version": "1.0.0",
+  "description": "A curated collection of LLM.txt files from various sources across the web",
+  "main": "scripts/fetch-updates.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-updates.js",
+    "update": "node scripts/fetch-updates.js"
+  },
+  "keywords": [
+    "llm",
+    "llm-txt",
+    "documentation",
+    "ai",
+    "machine-learning",
+    "agents"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/llm-txt-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/llm-txt-tracker/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/llm-txt-tracker#readme"
+}

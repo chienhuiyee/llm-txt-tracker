@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "id": "ag-ui",
+      "name": "AG-UI Protocol",
+      "url": "https://docs.ag-ui.com/llms-full.txt",
+      "description": "Agent User Interaction Protocol - A standardized protocol for connecting front-end applications to AI agents",
+      "category": "Protocol",
+      "tags": ["agents", "protocol", "ui", "streaming"],
+      "added": "2025-01-03",
+      "lastChecked": null,
+      "status": "active"
+    },
+    {
+      "id": "langgraph",
+      "name": "LangGraph",
+      "url": "https://langchain-ai.github.io/langgraph/llms.txt",
+      "description": "LangGraph framework for building stateful, multi-actor applications with LLMs",
+      "category": "Framework",
+      "tags": ["langgraph", "langchain", "agents", "workflows"],
+      "added": "2025-01-03",
+      "lastChecked": null,
+      "status": "active"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-01-03",
+    "totalSources": 2
+  }
+}
